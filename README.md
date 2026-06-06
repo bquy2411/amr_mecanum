@@ -1,5 +1,8 @@
 # Autonomous Mecanum-Wheel Robot
-
+## 📺 Operation Videos
+Click the links below to watch the robot in action on YouTube:
+- 🎥 **Scan Mapping** [Watch Video on YouTube](https://www.youtube.com/shorts/FKYTMiU5TrE)
+- 🎥 **Navigation:** [Watch Video on YouTube](https://www.youtube.com/shorts/XLoCuetVCNA)
 ## 1. Introduction
 This project focuses on designing and implementing an **autonomous mobile robot (AMR)** using **Mecanum wheels**, enabling omnidirectional movement suitable for narrow environments and warehouses.
 
